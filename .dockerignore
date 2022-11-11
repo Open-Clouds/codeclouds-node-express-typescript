@@ -1,5 +1,4 @@
-openclouds.ai-front/node_modules
-openclouds.ai-back/node_modules
+node_modules
 
 # Logs
 logs
